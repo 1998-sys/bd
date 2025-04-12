@@ -9,6 +9,7 @@ A aplicação foi construída com foco em praticar conceitos de banco de dados e
 - Python
 - Streamlit
 - SQLite3
+- PostgreSQL
 
 ## 💡 Funcionalidades
 
