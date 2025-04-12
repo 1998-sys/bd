@@ -20,4 +20,8 @@ A aplicação foi construída com foco em praticar conceitos de banco de dados e
 
 Este projeto faz parte dos meus estudos em banco de dados, com foco na integração entre interface de entrada de dados e armazenamento local.
 
+LINK DA APLICAÇÃO:
+https://ykdqpesw4xdnytsjqinbe8.streamlit.app/
+
+
 ---
